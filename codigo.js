@@ -27,7 +27,7 @@ function enviarNotificacoesECriarEventos() {
     // PEGAR O CALENDÁRIO
     // CalendarApp = API do Google Calendar
     // getCalendarById() = busca calendário pelo email/ID
-    var calendar = CalendarApp.getCalendarById('medsegcorretora@gmail.com');
+    var calendar = CalendarApp.getCalendarById('SEU_EMAIL_AQUI@gmail.com');
     
     // CRIAR DATA DE HOJE (para comparar depois)
     var hoje = new Date(); // new Date() = cria objeto de data/hora atual
