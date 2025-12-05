@@ -26,7 +26,7 @@ Script automatizado para criar lembretes de vencimento de seguros no Google Cale
 1. Abra sua planilha no Google Sheets
 2. Vá em **Extensões > Apps Script**
 3. Cole o código do arquivo `codigo.js`
-4. Substitua o email `medsegcorretora@gmail.com` pelo seu calendário
+4. Substitua o email `SEU_EMAIL_AQUI@gmail.com` pelo seu calendário
 5. Execute a função `enviarNotificacoesECriarEventos()`
 6. Autorize as permissões necessárias
 
