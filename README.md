@@ -71,3 +71,7 @@ Criado por [@Runema13](https://github.com/Runema13)
 # Sistema
 .DS_Store
 Thumbs.db
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
